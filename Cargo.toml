@@ -1,3 +1,6 @@
 [workspace]
 members = ["packages/ScaffoldRustContracts/example-contract"]
 resolver = "2"
+
+[workspace.dependencies]
+soroban-sdk = "22.0.6"
