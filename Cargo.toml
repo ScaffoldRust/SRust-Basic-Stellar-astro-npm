@@ -1,0 +1,3 @@
+[workspace]
+members = ["packages/soroban/example-contract"]
+resolver = "2"
