@@ -1,5 +1,5 @@
 [workspace]
-members = ["packages/ScaffoldRustContracts/example-contract"]
+members = ["packages/ScaffoldRustContracts/*"]
 resolver = "2"
 
 [workspace.dependencies]
